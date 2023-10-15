@@ -64,7 +64,6 @@ modded class eAIBase
 					return "Head";
 				return "Pelvis";
 			}
-				return "Pelvis";
 			if (weapon.IsInherited(Container_Base)) 
 				return "Pelvis";
 
